@@ -1,7 +1,7 @@
 {
-  "parser_version": "ed2480d42281586932920527823b307bc45052b8",
-  "location": null,
   "lang": "gap",
   "url": "https://github.com/gap-system/tree-sitter-gap",
-  "semver": false
+  "semver": false,
+  "parser_version": "ed2480d42281586932920527823b307bc45052b8",
+  "location": null
 }
